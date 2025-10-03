@@ -67,5 +67,4 @@ If you build on this work, please cite the accompanying short report and the sur
 - Project report: *Dimensionality Reduction Techniques: A Comparative Study* (`hy573Panagiotis.pdf`).  
 - Survey: *Overview and comparative study of dimensionality reduction techniques for high dimensional data*, Information Fusion 59 (2020) 44–58 (`paper573.pdf`).
 
-## License
-MIT (or your preferred license). Update the repository license file accordingly.
+
